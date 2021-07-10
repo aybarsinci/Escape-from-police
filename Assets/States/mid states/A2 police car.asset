@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309589b70e92d8541b551c72e7aeead2, type: 3}
+  m_Name: A2 police car
+  m_EditorClassIdentifier: 
+  storyText: 'A police car, saw you while you were walking.
+
+    
+
+    1. Fight
+    with your pistol.
+
+    2. Run away.'
+  nextStates:
+  - {fileID: 11400000, guid: 658ca76c8e0bb4c498653452d9264186, type: 2}
+  - {fileID: 11400000, guid: 0751c9f0708f3024a852657bc9f26a16, type: 2}

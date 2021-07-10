@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309589b70e92d8541b551c72e7aeead2, type: 3}
+  m_Name: info
+  m_EditorClassIdentifier: 
+  storyText: 'This game is created by Aybars Inci.
+
+
+    1. Go back to main menu'
+  nextStates:
+  - {fileID: 11400000, guid: ba14f79cb6d4846488288a09b0c851ff, type: 2}

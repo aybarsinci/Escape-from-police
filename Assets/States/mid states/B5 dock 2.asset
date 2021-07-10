@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309589b70e92d8541b551c72e7aeead2, type: 3}
+  m_Name: B5 dock 2
+  m_EditorClassIdentifier: 
+  storyText: 'You have found someone that is willing sell his car. But you could
+    not afford that price.
+
+    
+
+    1. Convince him to lower the price
+
+    2.
+    Kill him and take his car.'
+  nextStates:
+  - {fileID: 11400000, guid: 37f2932585c91d948927c11f9b302fda, type: 2}
+  - {fileID: 11400000, guid: 123b392c7371c5345b40303dfafbb47a, type: 2}
